@@ -1,0 +1,14 @@
+/Users/ash/Desktop/LoginPageApp/LogInApp/bin/Debug/net7.0/LogInApp
+/Users/ash/Desktop/LoginPageApp/LogInApp/bin/Debug/net7.0/LogInApp.deps.json
+/Users/ash/Desktop/LoginPageApp/LogInApp/bin/Debug/net7.0/LogInApp.runtimeconfig.json
+/Users/ash/Desktop/LoginPageApp/LogInApp/bin/Debug/net7.0/LogInApp.dll
+/Users/ash/Desktop/LoginPageApp/LogInApp/bin/Debug/net7.0/LogInApp.pdb
+/Users/ash/Desktop/LoginPageApp/LogInApp/obj/Debug/net7.0/LogInApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ash/Desktop/LoginPageApp/LogInApp/obj/Debug/net7.0/LogInApp.AssemblyInfoInputs.cache
+/Users/ash/Desktop/LoginPageApp/LogInApp/obj/Debug/net7.0/LogInApp.AssemblyInfo.cs
+/Users/ash/Desktop/LoginPageApp/LogInApp/obj/Debug/net7.0/LogInApp.csproj.CoreCompileInputs.cache
+/Users/ash/Desktop/LoginPageApp/LogInApp/obj/Debug/net7.0/LogInApp.dll
+/Users/ash/Desktop/LoginPageApp/LogInApp/obj/Debug/net7.0/refint/LogInApp.dll
+/Users/ash/Desktop/LoginPageApp/LogInApp/obj/Debug/net7.0/LogInApp.pdb
+/Users/ash/Desktop/LoginPageApp/LogInApp/obj/Debug/net7.0/LogInApp.genruntimeconfig.cache
+/Users/ash/Desktop/LoginPageApp/LogInApp/obj/Debug/net7.0/ref/LogInApp.dll
